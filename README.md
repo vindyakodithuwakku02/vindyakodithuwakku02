@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vindyakodithuwakku02.vindyakodithuwakku02" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Vindya+Kodithuwakku....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Vindya&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="Hi I'm Vindya banner" />
+</p>
 
 <h5 align="center">
   <code><a href="https://linkedin.com/in/vindya-kodithuwakku" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
@@ -27,10 +25,12 @@
 
 <hr>
 
-<h2 align="center">� Languages & Frameworks & Tools 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <img height="35" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,nodejs,express,js,ts,html,css,mongodb,postgres,mysql,firebase,aws,git,github,vscode,postman,figma" />
+  <img height="45" src="https://skillicons.dev/icons?i=nextjs,react,angular,redux,tailwind,bootstrap,materialui,nodejs,express,js,ts" />
+  <br/>
+  <img height="45" src="https://skillicons.dev/icons?i=html,css,mongodb,postgres,mysql,firebase,aws,vercel,netlify,docker,git,github,vscode,postman,figma,npm,yarn" />
 </p>
 <hr>
 
@@ -60,12 +60,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/vindyakodithuwakku02/gocart" title="gocart"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=gocart&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/vindyakodithuwakku02/pos-system" title="pos-system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=pos-system&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/vindyakodithuwakku02/my_portfolio" title="my_portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=my_portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/vindyakodithuwakku02/pos-system" title="pos-system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=pos-system&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/vindyakodithuwakku02/Travel-FirstProject" title="Travel-FirstProject"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=Travel-FirstProject&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/vindyakodithuwakku02/plugin-repo-lab" title="plugin-repo-lab"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=plugin-repo-lab&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Chandima0406/E-Satahan" title="E-Satahan"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandima0406&repo=E-Satahan&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/vindyakodithuwakku02/Travel-FirstProject" title="Travel-FirstProject"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=Travel-FirstProject&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
