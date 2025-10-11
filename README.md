@@ -7,20 +7,17 @@
 <h5 align="center">
   <code><a href="https://linkedin.com/in/vindya-kodithuwakku" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto:vindyasubodhi@gmail.com" title="Email"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"> Email</a></code>
-  <code><a href="https://stackoverflow.com/users/" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://github.com/vindyakodithuwakku02" title="GitHub"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"> GitHub</a></code>
   <code><a href="https://vindyakodithuwakku02.github.io/my_portfolio/" title="Portfolio"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"> Portfolio</a></code>
 </h5>
 <br>
 
 <p align="center">
-  Hi, I'm <b>Vindya</b> — a 3rd‑year Computing undergraduate and Full‑Stack Developer from Sri Lanka.
+  Hi, I'm <b>Vindya</b> — a 3rd‑year Computing undergraduate and Full‑Stack Developer.
   <br>
   💻 I love writing clean code, shipping fast UIs, and learning anything about web tech.
   <br>
   📚 Currently exploring AI-assisted features and cloud deployments for real products.
-  <br>
-  📫 Reach me at <a href="mailto:vindyasubodhi@gmail.com">vindyasubodhi@gmail.com</a>
 </p>
 
 <hr>
@@ -62,15 +59,10 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/vindyakodithuwakku02/my_portfolio" title="my_portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=my_portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/vindyakodithuwakku02/pos-system" title="pos-system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=pos-system&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Chandima0406/E-Satahan" title="E-Satahan"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandima0406&repo=E-Satahan&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/vindyakodithuwakku02/Travel-FirstProject" title="Travel-FirstProject"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=Travel-FirstProject&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/vindyakodithuwakku02?tab=repositories" title="Show Repositories">🔎 Show More �</a>
+  <a href="https://github.com/vindyakodithuwakku02?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   <br>
   <br>
   <em>Open to internships and collabs — reach out on LinkedIn or email!</em>
