@@ -1,84 +1,93 @@
-## Hi — I'm Vindya Kodithuwakku 👋
+<p align="center">
+	<!-- Banner placeholder (replace with your banner image URL) -->
+	<img src="https://user-images.githubusercontent.com/000000/placeholder-banner.png" alt="banner" width="820" style="border-radius:8px;filter:grayscale(4%);" />
 
-Software Engineering Intern | Full‑Stack Developer (React · Next.js · Node.js)  
-Galle, Sri Lanka • Open to internships & collaborative projects
+	<h1>Hi — I'm Vindya Kodithuwakku 👋</h1>
+	<p><strong>Full‑Stack Developer</strong> · Next.js · React · Node.js · Cloud</p>
+</p>
 
 ---
 
 About
 —
-Passionate 3rd-year Computing undergraduate specializing in full-stack web development. I build scalable, user-friendly web apps using React, Next.js and Node.js, and deploy them on cloud platforms. I enjoy integrating AI APIs into products and working in Agile teams to deliver reliable software.
-
-Key highlights
-- Current GPA: 3.77 / 4.00
-- Google AI Essentials certified; hands-on experience with modern web stacks and AI APIs
-- Comfortable with end-to-end development: design, backend APIs, databases, and cloud deployments
+I build production-ready web apps with strong UX and performance. I combine modern frontends (Next.js/React) with robust backends (Node/Express) and cloud deployments. I enjoy integrating AI features into real products.
 
 ---
 
-Skills
+Tech stack (visual)
 —
-- Frontend: HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS, Bootstrap
-- Backend: Node.js, Express.js, PHP, REST APIs, JWT authentication
-- Databases & Cloud: MySQL, PostgreSQL, MongoDB, Firebase, AWS (EC2, S3, RDS)
-- Tools: Git, GitHub, VS Code, Postman, Figma, CI/CD, Agile
+<p align="center">
+	<!-- skillicons.dev used for compact tech icons -->
+	<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,nodejs,express,js,html,css,mongodb,postgres,aws,git" alt="tech icons" />
+</p>
+
+Core skills
+- Frontend: Next.js, React, Tailwind CSS
+- Backend: Node.js, Express, REST APIs
+- Data & Cloud: MongoDB, PostgreSQL, AWS
+- Tools: Git, Vercel, Postman, Figma
 
 ---
 
-Selected projects
-—
-- Smart Mobile Ticketing Platform — Domino’s Sri Lanka (Flutter, Node.js, PostgreSQL, AWS)
-	- Engineered a mobile ticketing system for maintenance reporting across 30+ outlets; designed REST APIs and deployed on AWS.
-- NovaScript — AI-Driven Research Management System (React, Node.js, MongoDB, Gemini API)
-	- Built an AI workflow to automate proposal generation and project tracking for researchers using Gemini API.
-- Multi-Vendor E‑commerce Platform (Next.js, Tailwind, Redux)
-	- Marketplace with vendor storefronts, admin dashboards, and SSR for SEO.
-- Restaurant POS & E-Satahan (React/Node.js; PHP/MySQL)
-	- Full-stack applications for order management and academic note sharing.
+---
 
-Tip: Pin 4–6 of these repos to your profile so visitors can quickly see your best work.
+---
+---
+Selected projects (short)
+—
+- Smart Mobile Ticketing Platform — maintenance workflow (Node.js, PostgreSQL, AWS)
+- NovaScript — AI research tooling (React, Node.js, Gemini API)
+- Multi-Vendor E‑commerce — marketplace (Next.js, Tailwind)
+
+Tip: Pin 4–6 repos (frontend, backend, AI, capstone).
 
 ---
 
 Certifications & achievements
 —
 - Google AI Essentials (Coursera)
-- Python Programming, Front-End Web Development (University of Moratuwa)
-- Semi-finalist — Brainstorm 2025 (SmartMedix) & SLIoT Challenge 2025 (Sensora)
+- Semi-finalist — Brainstorm 2025 (SmartMedix)
+- Semi-finalist — SLIoT Challenge 2025 (Sensora)
 
 ---
 
-Contact & links
+Connect
 —
-- Email: vindyasubodhi@gmail.com
-- LinkedIn: https://linkedin.com/in/vindya-kodithuwakku
-- GitHub: https://github.com/vindyakodithuwakku02
-- Portfolio: (add your portfolio URL here)
+<p align="center">
+	<a href="https://github.com/vindyakodithuwakku02"><img src="https://img.shields.io/badge/GitHub-@vindyakodithuwakku02-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/vindya-kodithuwakku"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+	<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_link-7b1fa2?style=flat-square&logo=googlechrome" alt="Portfolio placeholder"/></a>
+</p>
 
-If you'd rather not publicly show your phone number, I can omit it — tell me your preference.
+Note: contact via LinkedIn / GitHub (no phone/email displayed).
 
 ---
 
 GitHub stats
 —
-<!-- GitHub Readme Stats (optional) -->
-![Vindya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vindyakodithuwakku02&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vindyakodithuwakku02&layout=compact&theme=dark)
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=vindyakodithuwakku02&show_icons=true&theme=tokyonight&count_private=true" alt="Vindya's GitHub stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindyakodithuwakku02&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 ---
 
 What I’m looking for
 —
-- Internship or junior roles in full-stack web development
-- Open to collaboration on AI + web projects and cloud deployments
+- Internship / junior dev roles in web development
+- Collaboration on AI + web projects and cloud deployments
 
 ---
 
 Small wins & next steps
 —
-- Pin your best repos (frontend, backend, AI project, capstone).  
-- Add demo links and short README files per repo with screenshots and setup instructions.  
-- Add a professional profile photo and keep contact info consistent across LinkedIn / portfolio / GitHub.  
-- Want, I can also create small card images (banner + avatar crop) and a compact version of this README for mobile viewers.
+- Pin your 4–6 best repos (showcases) — pick one frontend, one backend, one AI project, etc.
+- Add a short demo (link or GIF) and a minimal README to each pinned repo (1–2 minutes to scan)
+- Use a clean banner and a sharp avatar to improve first impressions (I can design both)
 
-If you want, I can commit a version that hides your email or phone, or create repo READMEs for the projects above. Which would you like me to do next?
+Which would you like next? Reply with the number:
+1) I’ll create a profile banner + avatar crop (I'll add placeholder images and update `README.md`).
+2) I’ll generate a polished README for one of your repos — reply with the repo name.
+3) I’ll change/remove the GitHub stats cards or switch their theme.
+
+Tell me 1, 2 + repo, or 3 and I’ll do it next.
