@@ -1,197 +1,78 @@
-<div align="center">
-
-  <img src="./assets/banner.svg" alt="banner" width="100%" style="max-width:1100px;border-radius:12px;" />
-
-<div align="center">
-
-  <div style="margin-top:-80px;">	<img src="./assets/banner.svg" alt="banner" width="100%" style="max-width:1100px;border-radius:12px;" />
-
-    <img src="./assets/avatar.png" alt="Vindya Kodithuwakku" width="160" style="border-radius:50%;border:6px solid #0b0b0b;box-shadow:0 6px 20px rgba(0,0,0,0.6)" />
-
-  </div>	<div style="display:flex;align-items:center;justify-content:center;margin-top:-80px;">
-
-		<img src="./assets/avatar.png" alt="avatar" width="160" style="border-radius:50%;border:6px solid #0b0b0b;box-shadow:0 6px 20px rgba(0,0,0,0.6)" />
-
-  <h1 style="margin-top:12px;">Hi there 👋, I'm <strong>Vindya Kodithuwakku</strong></h1>	</div>
-
-  <p style="font-size:16px;margin-top:6px;">Full‑Stack Developer • Next.js · React · Node.js · Cloud</p>
-
-	<h1 style="margin-top:12px;">Hi there 👋, I'm <strong>Vindya Kodithuwakku</strong></h1>
-
-  <!-- Social badges -->	<p style="font-size:16px;margin-top:6px;">Full‑Stack Developer • Next.js · React · Node.js · Cloud</p>
-
-  <p style="margin-top:6px;">
-
-    <a href="https://github.com/vindyakodithuwakku02"><img src="https://img.shields.io/badge/GitHub-@vindyakodithuwakku02-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>	<!-- Social badges -->
-
-    <a href="https://linkedin.com/in/vindya-kodithuwakku"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>		<p style="margin-top:6px;">
-
-    <a href="mailto:vindyasubodhi@gmail.com" style="margin-left:6px"><img src="https://img.shields.io/badge/Email-vindyasubodhi%40gmail.com-7b1fa2?style=for-the-badge&logo=gmail" alt="Email"/></a>			<a href="https://github.com/vindyakodithuwakku02"><img src="https://img.shields.io/badge/GitHub-@vindyakodithuwakku02-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-
-    <a href="https://vindyakodithuwakku02.github.io/my_portfolio/" style="margin-left:6px"><img src="https://img.shields.io/badge/Portfolio-Visit-f72585?style=for-the-badge&logo=googlechrome" alt="Portfolio"/></a>			<a href="https://linkedin.com/in/vindya-kodithuwakku"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-
-  </p>			<a href="mailto:vindyasubodhi@gmail.com" style="margin-left:6px"><img src="https://img.shields.io/badge/Email-vindyasubodhi%40gmail.com-7b1fa2?style=for-the-badge&logo=gmail" alt="Email"/></a>
-
-			<a href="https://github.com/vindyakodithuwakku02" style="margin-left:6px"><img src="https://komarev.com/ghpvc/?username=vindyakodithuwakku02&color=0e75b6&style=flat-square" alt="Profile views"/></a>
-
-  <p style="margin-top:4px;">		</p>
-
-    <img src="https://komarev.com/ghpvc/?username=vindyakodithuwakku02&color=0e75b6&style=flat-square" alt="Profile views"/>
-
-  </p>	<!-- Short intro and random dev quote -->
-
-	<p style="max-width:900px;margin:auto;font-size:15px;line-height:1.6;color:#dcd6f7">I build fast, accessible web apps and enjoy integrating AI features where they make sense. Currently focused on full-stack projects and deploying production-ready systems.</p>
-
-  <!-- Short intro -->
-
-  <p style="max-width:900px;margin:auto;font-size:15px;line-height:1.6;padding:0 20px;">	<p style="margin-top:10px;"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev-quote"/></p>
-
-    Passionate 3rd-year Computing undergraduate specializing in full-stack development. I build fast, accessible web apps and enjoy integrating AI features where they make sense. Currently focused on deploying production-ready systems with React, Next.js, Node.js, and cloud technologies.
-
-  </p>	<!-- Tech icons -->
-
-	<p style="margin-top:8px;">
-
-  <!-- Random dev quote -->		<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,js,html,css,mongodb,postgres,aws,git" alt="tech"/>
-
-  <p style="margin-top:12px;">	</p>
-
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev-quote"/>
-
-  </p>	<!-- Stats / streaks / languages (collapsible style) -->
-
-	<details style="max-width:1100px;margin:auto;margin-top:18px;text-align:left;padding:12px;border-radius:8px;background:rgba(255,255,255,0.02);">
-
-</div>		<summary style="font-weight:700;">📊 Github stats & activity (click to expand)</summary>
-
-		<div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:12px;align-items:center;">
-
----			<img src="https://github-readme-stats.vercel.app/api?username=vindyakodithuwakku02&show_icons=true&theme=react&hide_border=true" height="150"/>
-
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindyakodithuwakku02&layout=compact&theme=react&hide_border=true" height="150"/>
-
-## 🛠️ Tech stack			<img src="https://github-readme-streak-stats.herokuapp.com/?user=vindyakodithuwakku02&theme=react&hide_border=true" height="150"/>
-
-		</div>
-
-<p align="center">	</details>
-
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,nodejs,express,js,html,css,mongodb,postgres,aws,git,github,vscode,postman,figma" alt="tech"/>
-
-</p>	<!-- Pinned project cards -->
-
-	<h3 style="margin-top:22px">⭐ Featured projects</h3>
-
-**Core skills**		<div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1100px;margin:auto;">
-
-- **Frontend:** Next.js, React, Tailwind CSS, Bootstrap, JavaScript (ES6+)			<a href="https://github.com/fixpoint-tech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fixpoint-tech&repo=Smart-Mobile-Ticketing&theme=react&hide_border=true" width="340" alt="Smart Mobile Ticketing"/></a>
-
-- **Backend:** Node.js, Express, PHP, REST APIs, JWT Authentication			<a href="https://github.com/Chandima0406/NovaScript.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandima0406&repo=NovaScript&theme=react&hide_border=true" width="340" alt="NovaScript"/></a>
-
-- **Database & Cloud:** MongoDB, PostgreSQL, MySQL, Firebase, AWS (EC2, S3, RDS)			<a href="https://github.com/vindyakodithuwakku02/gocart.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=gocart&theme=react&hide_border=true" width="340" alt="gocart"/></a>
-
-- **Tools:** Git, GitHub, VS Code, Postman, Figma, Jira, CI/CD			<a href="https://github.com/Chandima0406/E-Satahan.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandima0406&repo=E-Satahan&theme=react&hide_border=true" width="340" alt="E-Satahan"/></a>
-
-			<a href="https://github.com/vindyakodithuwakku02/pos-system.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=pos-system&theme=react&hide_border=true" width="340" alt="pos-system"/></a>
-
----		</div>
-
-
-
-## 📊 GitHub stats & activity	<!-- Activity graph (requires the profile-3d-contrib or similar) -->
-
-	<h3 style="margin-top:22px">📈 Activity</h3>
-
-<details open>	<div style="max-width:1100px;margin:auto;">
-
-  <summary><b>📈 Click to expand</b></summary>		<img src="./profile-3d-contrib/profile-night-view.svg" alt="activity-graph" style="width:100%;border-radius:8px;background:transparent;"/>
-
-  <br/>	</div>
-
-  <p align="center">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=vindyakodithuwakku02&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>	<p style="margin-top:18px;color:#bdb8f7">Want this customized (different colors, illustration style, or different pinned repos)? Reply with your choices and I'll update everything.</p>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindyakodithuwakku02&layout=compact&theme=react&hide_border=true" height="165"/>
-
-  </p></div>
-
-  <p align="center">
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vindyakodithuwakku02&theme=react&hide_border=true" height="165"/>
-
-  </p>What I’m looking for
-
-</details>—
-
-- Internship / junior dev roles in web development
-
----- Collaboration on AI + web projects and cloud deployments
-
-
-
-## ⭐ Featured projects---
-
-
-
-<p align="center">Small wins & next steps
-
-  <a href="https://github.com/fixpoint-tech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fixpoint-tech&repo=Smart-Mobile-Ticketing&theme=react&hide_border=true" width="48%"/></a>—
-
-  <a href="https://github.com/Chandima0406/NovaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandima0406&repo=NovaScript&theme=react&hide_border=true" width="48%"/></a>- Pin your 4–6 best repos (showcases) — pick one frontend, one backend, one AI project, etc.
-
-</p>- Add a short demo (link or GIF) and a minimal README to each pinned repo (1–2 minutes to scan)
-
-<p align="center">- Use a clean banner and a sharp avatar to improve first impressions (I can design both)
-
-  <a href="https://github.com/vindyakodithuwakku02/gocart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=gocart&theme=react&hide_border=true" width="48%"/></a>
-
-  <a href="https://github.com/Chandima0406/E-Satahan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandima0406&repo=E-Satahan&theme=react&hide_border=true" width="48%"/></a>Which would you like next? Reply with the number:
-
-</p>1) I’ll create a profile banner + avatar crop (I'll add placeholder images and update `README.md`).
-
-<p align="center">2) I’ll generate a polished README for one of your repos — reply with the repo name.
-
-  <a href="https://github.com/vindyakodithuwakku02/pos-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=pos-system&theme=react&hide_border=true" width="48%"/></a>3) I’ll change/remove the GitHub stats cards or switch their theme.
-
-</p>
-
-Tell me 1, 2 + repo, or 3 and I’ll do it next.
-
-**Selected projects (short)**
-- **Smart Mobile Ticketing Platform** — maintenance workflow (Node.js, PostgreSQL, AWS)
-- **NovaScript** — AI research tooling (React, Node.js, Gemini API)
-- **Multi-Vendor E-commerce** — marketplace (Next.js, Tailwind)
-- **E-Satahan** — academic notes sharing platform (PHP, MySQL)
-- **Restaurant POS System** — full-stack order management (React, Node.js, MongoDB)
-
----
-
-## 🏆 Certifications & achievements
-
-- 🎓 **Google AI Essentials** (Coursera, 2024)
-- 🥈 **Semi-finalist** — Brainstorm 2025 (SmartMedix) — IEEE EMBS, University of Moratuwa
-- 🥈 **Semi-finalist** — SLIoT Challenge 2025 (Sensora)
-- 📜 Python Programming, Front-End Web Development (University of Moratuwa, 2025)
-- 📜 IT Essentials (Cisco Networking Academy, 2025)
-
----
-
-## 📈 Activity
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vindyakodithuwakku02.vindyakodithuwakku02" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Vindya+Kodithuwakku....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://linkedin.com/in/vindya-kodithuwakku" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:vindyasubodhi@gmail.com" title="Email"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"> Email</a></code>
+  <code><a href="https://stackoverflow.com/users/" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://github.com/vindyakodithuwakku02" title="GitHub"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"> GitHub</a></code>
+  <code><a href="https://vindyakodithuwakku02.github.io/my_portfolio/" title="Portfolio"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"> Portfolio</a></code>
+</h5>
+<br>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="activity-graph" width="100%"/>
+  Hi, I'm <b>Vindya</b> — a 3rd‑year Computing undergraduate and Full‑Stack Developer from Sri Lanka.
+  <br>
+  💻 I love writing clean code, shipping fast UIs, and learning anything about web tech.
+  <br>
+  📚 Currently exploring AI-assisted features and cloud deployments for real products.
+  <br>
+  📫 Reach me at <a href="mailto:vindyasubodhi@gmail.com">vindyasubodhi@gmail.com</a>
 </p>
 
----
+<hr>
 
-## 💼 What I'm looking for
-
-- 🚀 Internship / junior dev roles in full-stack web development
-- 🤝 Collaboration on AI + web projects and cloud deployments
-
----
-
+<h2 align="center">� Languages & Frameworks & Tools 🔥</h2>
+<br>
 <p align="center">
-  <em>💡 Open to collaboration and opportunities — let's build something amazing together!</em>
+  <img height="35" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,nodejs,express,js,ts,html,css,mongodb,postgres,mysql,firebase,aws,git,github,vscode,postman,figma" />
 </p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=vindyakodithuwakku02&theme=react&border=61dafb&hide_border=true" alt="streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=vindyakodithuwakku02&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindyakodithuwakku02&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vindyakodithuwakku02&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/vindyakodithuwakku02/gocart" title="gocart"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=gocart&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/vindyakodithuwakku02/pos-system" title="pos-system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=pos-system&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/vindyakodithuwakku02/Travel-FirstProject" title="Travel-FirstProject"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=Travel-FirstProject&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/vindyakodithuwakku02/plugin-repo-lab" title="plugin-repo-lab"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vindyakodithuwakku02&repo=plugin-repo-lab&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/vindyakodithuwakku02?tab=repositories" title="Show Repositories">🔎 Show More �</a>
+  <br>
+  <br>
+  <em>Open to internships and collabs — reach out on LinkedIn or email!</em>
+  <br>
+</h4>
