@@ -72,7 +72,7 @@ Note: contact via LinkedIn / GitHub (no phone/email displayed).
 	<img src="./assets/banner.svg" alt="banner" width="100%" style="max-width:1100px;border-radius:12px;" />
 
 	<div style="display:flex;align-items:center;justify-content:center;margin-top:-80px;">
-		<img src="./assets/avatar.svg" alt="avatar" width="160" style="border-radius:50%;border:6px solid #0b0b0b;box-shadow:0 6px 20px rgba(0,0,0,0.6)" />
+		<img src="./assets/avatar.png" alt="avatar" width="160" style="border-radius:50%;border:6px solid #0b0b0b;box-shadow:0 6px 20px rgba(0,0,0,0.6)" />
 	</div>
 
 	<h1 style="margin-top:12px;">Hi there 👋, I'm <strong>Vindya Kodithuwakku</strong></h1>
