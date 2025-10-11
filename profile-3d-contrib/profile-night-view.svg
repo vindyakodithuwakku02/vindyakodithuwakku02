@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <style>
+    .bg{fill:#0b0b0b}
+    .title{fill:#cfc9ff;font-family:Inter, Arial, sans-serif;font-size:14px}
+    .box{rx:3}
+  </style>
+  <rect width="1200" height="140" class="bg" rx="8"/>
+  <text x="28" y="26" class="title">Contributions (sample)</text>
+  <!-- Fake heatmap grid: 18 cols x 6 rows -->
+  <g transform="translate(20,36)">
+    <!-- Generate squares -->
+    <!-- colors: none -> #1f2937, low -> #155e75, med -> #7b2cbf, high -> #f72585 -->
+    <!-- Row loop -->
+    <!-- Column spacing 22, row spacing 18 -->
+    <g>
+      <!-- hardcoded pattern to look like activity -->
+      <rect x="0" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+      <rect x="22" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+      <rect x="44" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+      <rect x="66" y="0" width="14" height="14" rx="3" fill="#f72585"/>
+      <rect x="88" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+      <rect x="110" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+      <rect x="132" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+      <rect x="154" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+      <rect x="176" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+      <rect x="198" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+      <rect x="220" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+      <rect x="242" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+
+      <g transform="translate(0,18)">
+        <rect x="0" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="22" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="44" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="66" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="88" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="110" y="0" width="14" height="14" rx="3" fill="#f72585"/>
+        <rect x="132" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="154" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="176" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="198" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="220" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="242" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+      </g>
+
+      <g transform="translate(0,36)">
+        <rect x="0" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="22" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="44" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="66" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="88" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="110" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="132" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="154" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="176" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="198" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="220" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="242" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+      </g>
+
+      <g transform="translate(0,54)">
+        <rect x="0" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="22" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="44" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="66" y="0" width="14" height="14" rx="3" fill="#f72585"/>
+        <rect x="88" y="0" width="14" height="14" rx="3" fill="#f72585"/>
+        <rect x="110" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="132" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="154" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="176" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="198" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="220" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="242" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+      </g>
+
+      <g transform="translate(0,72)">
+        <rect x="0" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="22" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="44" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="66" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="88" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="110" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="132" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+        <rect x="154" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="176" y="0" width="14" height="14" rx="3" fill="#7b2cbf"/>
+        <rect x="198" y="0" width="14" height="14" rx="3" fill="#f72585"/>
+        <rect x="220" y="0" width="14" height="14" rx="3" fill="#155e75"/>
+        <rect x="242" y="0" width="14" height="14" rx="3" fill="#1f2937"/>
+      </g>
+    </g>
+  </g>
+  <text x="28" y="132" fill="#9b94d6" font-family="Inter, Arial, sans-serif" font-size="12">Generated static activity preview</text>
+</svg>
