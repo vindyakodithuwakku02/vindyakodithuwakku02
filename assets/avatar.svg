@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7b2cbf"/>
+      <stop offset="100%" stop-color="#f72585"/>
+    </linearGradient>
+    <style>
+      .bg{fill:url(#a)}
+      .initial{font-family:Inter, Arial, sans-serif; font-weight:800; font-size:140px; fill:#fff}
+    </style>
+  </defs>
+  <rect width="400" height="400" rx="200" class="bg"/>
+  <text x="50%" y="55%" text-anchor="middle" class="initial">VK</text>
+</svg>
