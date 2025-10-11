@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#3a0ca3"/>
+      <stop offset="50%" stop-color="#7b2cbf"/>
+      <stop offset="100%" stop-color="#f72585"/>
+    </linearGradient>
+    <style>
+      .bg{fill:url(#g)}
+      .title{font-family:Inter, Arial, sans-serif; font-weight:700; font-size:48px; fill:#fff}
+      .subtitle{font-family:Inter, Arial, sans-serif; font-weight:500; font-size:20px; fill:#e9e9f3}
+      .accent{fill:rgba(255,255,255,0.08)}
+    </style>
+  </defs>
+  <rect class="bg" width="1280" height="360" rx="12"/>
+  <g transform="translate(80,60)">
+    <text class="title">Hi, I'm Vindya</text>
+    <text class="subtitle" y="46">Full‑Stack Developer • Next.js · React · Node.js · Cloud</text>
+  </g>
+  <!-- decorative code blocks -->
+  <g transform="translate(960,40)">
+    <rect x="0" y="0" width="260" height="56" rx="8" class="accent"/>
+    <rect x="0" y="72" width="220" height="36" rx="6" class="accent"/>
+    <rect x="0" y="116" width="180" height="26" rx="6" class="accent"/>
+  </g>
+</svg>
