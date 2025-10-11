@@ -66,42 +66,36 @@ Note: contact via LinkedIn / GitHub (no phone/email displayed).
 
 <!-- Minimal, visual profile layout -->
 
-<p align="center">
-	<!-- Avatar placeholder (replace with your avatar image) -->
-	<img src="https://user-images.githubusercontent.com/000000/placeholder-avatar.png" alt="avatar" width="160" style="border-radius:50%;border:4px solid #2d2d2d;"/>
+<div align="center">
+	<img src="./assets/banner.svg" alt="banner" width="920" style="border-radius:10px;" />
 
-	<h2>Vindya Kodithuwakku</h2>
-	<p><em>Full‑Stack Developer — Next.js · React · Node · Cloud</em></p>
+	<div style="display:flex;align-items:center;justify-content:center;margin-top: -60px;">
+		<img src="./assets/avatar.svg" alt="avatar" width="140" style="border-radius:50%;border:6px solid #0b0b0b;" />
+	</div>
 
-	<!-- Social / contact badges -->
+	<h1 style="margin-top:6px;">Vindya Kodithuwakku</h1>
+	<p><strong>Full‑Stack Developer</strong> • Next.js · React · Node.js · Cloud</p>
+
 	<p>
 		<a href="https://github.com/vindyakodithuwakku02"><img src="https://img.shields.io/badge/GitHub-@vindyakodithuwakku02-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 		<a href="https://linkedin.com/in/vindya-kodithuwakku"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-		<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_Link-7b1fa2?style=for-the-badge&logo=googlechrome" alt="Portfolio"/></a>
 	</p>
 
-	<!-- Tech icons row -->
 	<p>
 		<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,js,html,css,mongodb,postgres,aws,git" alt="tech icons" />
 	</p>
 
-	<!-- Pinned repo placeholders (update to link to your actual repos) -->
 	<p>
-		<a href="#" style="margin:6px"><img src="https://img.shields.io/badge/Repo-Travel--FirstProject-blue?style=plastic&logo=github" alt="Repo 1"/></a>
-		<a href="#" style="margin:6px"><img src="https://img.shields.io/badge/Repo-Multi--Vendor-green?style=plastic&logo=github" alt="Repo 2"/></a>
-		<a href="#" style="margin:6px"><img src="https://img.shields.io/badge/Repo-NovaScript-purple?style=plastic&logo=github" alt="Repo 3"/></a>
+		<a href="https://github.com/vindyakodithuwakku02/Travel-FirstProject" style="margin:6px"><img src="https://img.shields.io/badge/Travel--FirstProject-🔭-blue?style=plastic&logo=github" alt="Travel Repo"/></a>
+		<a href="https://github.com/vindyakodithuwakku02/Multi-Vendor" style="margin:6px"><img src="https://img.shields.io/badge/Multi--Vendor-Ecom-green?style=plastic&logo=github" alt="Ecom Repo"/></a>
+		<a href="https://github.com/vindyakodithuwakku02/NovaScript" style="margin:6px"><img src="https://img.shields.io/badge/NovaScript-AI-purple?style=plastic&logo=github" alt="NovaScript"/></a>
 	</p>
 
-	<!-- Compact GitHub stats (optional) -->
 	<p>
-		<img src="https://github-readme-stats.vercel.app/api?username=vindyakodithuwakku02&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+		<img src="https://github-readme-stats.vercel.app/api?username=vindyakodithuwakku02&show_icons=true&theme=dracula&hide_border=true" alt="stats" />
 	</p>
 
-</p>
-
----
-
-<p align="center"><small>Want a banner or avatar I design for you? Reply "design banner" and I’ll create one and add it to this repo.</small></p>
+</div>
 
 
 What I’m looking for
