@@ -37,9 +37,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vindyakodithuwakku02&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindyakodithuwakku02&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
 
 
 
