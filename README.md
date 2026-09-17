@@ -41,21 +41,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindyakodithuwakku02&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
----
 
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vindyakodithuwakku02&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vindyakodithuwakku02&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
-</p>
 
 ---
 
